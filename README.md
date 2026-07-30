@@ -18,7 +18,7 @@ Programa exclusivo e Gratuito promovido pela Rocketseat para ensino de Tecnologi
 <br>
 
 <p align="center">
-  <img alt="Projeto MyBioLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto MyBioLinks" src="./assets/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
